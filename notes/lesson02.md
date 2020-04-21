@@ -9,6 +9,13 @@
     .gitignore
 ## 本地文件的历史回退
 
+    所谓版本：即用 git commit 一次就是一个版本
+
+    放弃工作区的修改： git checkout -- 要放弃修改的文件名 可以跟多个文件
+
+    放弃暂存修改：
+
+    回退分支版本： git reset --hard commit_id
 
 
 ## 分支管理
